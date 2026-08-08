@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/enkrazh-pages/_next/static/chunks/0q786mbkccjt9.js","/enkrazh-pages/_next/static/chunks/1c00mpl0z9z11.js","/enkrazh-pages/_next/static/chunks/3abzqmc7go80i.js","/enkrazh-pages/_next/static/chunks/1-8s9_t85wwr4.js","/enkrazh-pages/_next/static/chunks/2v1w6lxvbipqr.js","/enkrazh-pages/_next/static/chunks/2i98syki7gxeq.js"],"default"]
+3:I[37457,["/enkrazh-pages/_next/static/chunks/0q786mbkccjt9.js","/enkrazh-pages/_next/static/chunks/1c00mpl0z9z11.js","/enkrazh-pages/_next/static/chunks/3abzqmc7go80i.js","/enkrazh-pages/_next/static/chunks/1-8s9_t85wwr4.js","/enkrazh-pages/_next/static/chunks/2v1w6lxvbipqr.js","/enkrazh-pages/_next/static/chunks/2i98syki7gxeq.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"7BgjLwxWeTiPMovLQP0Aj"}
