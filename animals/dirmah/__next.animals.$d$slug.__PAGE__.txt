@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[95510,["/enkrazh-pages/_next/static/chunks/1i8_llyu6_7ph.js","/enkrazh-pages/_next/static/chunks/2ez91hxzpt2o1.js","/enkrazh-pages/_next/static/chunks/12ftw5imfyfsk.js","/enkrazh-pages/_next/static/chunks/1-8s9_t85wwr4.js","/enkrazh-pages/_next/static/chunks/121aynm12x8b2.js","/enkrazh-pages/_next/static/chunks/35-w8_e2-jlvp.js","/enkrazh-pages/_next/static/chunks/3p3u6wihqevg2.js"],"AnimalDetailView"]
+3:I[97367,["/enkrazh-pages/_next/static/chunks/1i8_llyu6_7ph.js","/enkrazh-pages/_next/static/chunks/2ez91hxzpt2o1.js","/enkrazh-pages/_next/static/chunks/12ftw5imfyfsk.js","/enkrazh-pages/_next/static/chunks/1-8s9_t85wwr4.js","/enkrazh-pages/_next/static/chunks/121aynm12x8b2.js","/enkrazh-pages/_next/static/chunks/35-w8_e2-jlvp.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"dirmah"}],[["$","script","script-0",{"src":"/enkrazh-pages/_next/static/chunks/3p3u6wihqevg2.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3CtRuK_FYxX57ChO9cODX"}
+5:null
