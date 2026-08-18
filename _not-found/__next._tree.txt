@@ -1,3 +1,3 @@
 :HL["/enkrazh-pages/_next/static/chunks/2pv1--tz56vom.css","style"]
 :HL["/enkrazh-pages/_next/static/chunks/3y06iobf4l6kk.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"3CtRuK_FYxX57ChO9cODX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"isLrgini1oIMVChl8MQi4"}
