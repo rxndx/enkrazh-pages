@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fanimals\u002F[slug]","\u002Fempty-types\u002F[slug]","\u002Flegendary\u002F[slug]","\u002Flore-newbie\u002Fillness\u002F[slug]","\u002Fnpc\u002F[slug]","\u002Fplants\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
