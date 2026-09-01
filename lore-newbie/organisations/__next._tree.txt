@@ -14,4 +14,4 @@
 :HL["/enkrazh-pages/_next/static/media/cc014fcb166cf364-s.p.2cu9iw-l3ih8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/enkrazh-pages/_next/static/media/e4505858a30c79c2-s.p.0tlhhw_qyyfys.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/enkrazh-pages/_next/static/chunks/0n05rudvof_e3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lore-newbie","param":null,"prefetchHints":0,"slots":{"children":{"name":"organisations","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"UUTtFiqog-Q4Vy9FwNZ6B"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lore-newbie","param":null,"prefetchHints":0,"slots":{"children":{"name":"organisations","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"98p58V7PbtLs2fxYSmudS"}
