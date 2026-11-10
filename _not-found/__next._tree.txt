@@ -1,4 +1,4 @@
 :HL["/enkrazh-pages/_next/static/chunks/22f_09cg4y8i3.css","style"]
-:HL["/enkrazh-pages/_next/static/chunks/3vyvg7_gbxuv6.css","style"]
+:HL["/enkrazh-pages/_next/static/chunks/0xrn-0b48evpq.css","style"]
 :HL["/enkrazh-pages/_next/static/chunks/3ad4c-1dra4dz.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ssOWaprkN7huT9GGxh8Af"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"k1kB_MP_ZPDLepFe9nFOf"}
